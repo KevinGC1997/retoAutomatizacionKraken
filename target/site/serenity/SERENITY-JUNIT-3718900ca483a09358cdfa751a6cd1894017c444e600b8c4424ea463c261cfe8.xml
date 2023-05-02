@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="registro Usuario" skipped="0" tests="1" time="0.42" timestamp="2023-04-27 11:48:19"><testcase name="Registro Usuario Exitoso"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.sqasa.web.demo.utils.KrakenWeb.abrirNavegadorEn(KrakenWeb.java:49)&#13;
+steps.RegistroUsuarioStep.abrirAdvantage(RegistroUsuarioStep.java:24)&#13;
+com.advantageonlineshopping.www.stepDefinitions.registroUsuarioStepDefinition.queEstoyEnElHomeDeAdvantageShopping(registroUsuarioStepDefinition.java:16)&#13;
+✽.que estoy en el home de advantage shopping(src/test/resources/feature/registroUsuario.feature:5)&#13;
+</system-err></testcase></testsuite>

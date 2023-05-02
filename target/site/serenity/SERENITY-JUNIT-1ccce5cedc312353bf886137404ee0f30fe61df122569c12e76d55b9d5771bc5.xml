@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="regustro Usuario" skipped="0" tests="1" time="33.81" timestamp="2023-04-27 10:45:32"><testcase name="Compra exitosa de una laptop"><failure message="expected:&lt;[]&gt; but was:&lt;[isabella.kuhlman]&gt;" type="java.lang.AssertionError">expected:&lt;[]&gt; but was:&lt;[isabella.kuhlman]&gt;</failure><system-err>expected:&lt;[]&gt; but was:&lt;[isabella.kuhlman]&gt;&#13;
+com.sqasa.web.demo.utils.KrakenWeb.validarIgual(KrakenWeb.java:149)&#13;
+steps.RegistroUsuarioStep.validarRegistroUsuario(RegistroUsuarioStep.java:70)&#13;
+com.advantageonlineshopping.www.stepDefinitions.compraExitosaStepDefinition.realizoInicioDeSesionYValidoQueElInicioDeSesionFueExitoso(compraExitosaStepDefinition.java:15)&#13;
+✽.Realizo inicio de sesion y valido que el inicio de sesion fue exitoso(src/test/resources/feature/registroUsuario.feature:12)&#13;
+</system-err></testcase></testsuite>
